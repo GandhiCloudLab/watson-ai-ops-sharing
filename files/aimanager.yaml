@@ -1,4 +1,6 @@
 apiVersion: ai-manager.watson-aiops.ibm.com/v1beta1
+
+
 kind: AIManager
 metadata:
   name: aimanager

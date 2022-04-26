@@ -82,6 +82,8 @@ spec:
     humio:
       repository: ''
       url: ''
+      
+      
   persistence:
     storageSizeNCOBackup: 5Gi
     enabled: true
